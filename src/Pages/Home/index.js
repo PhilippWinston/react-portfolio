@@ -9,7 +9,7 @@ const Home = () => {
         <h2>About Me</h2>
         <img
           class="headshot"
-          src="../assets/images/headshot.jpg"
+          src={process.env.PUBLIC_URL + "/assets/images/headshot.jpg"}
           alt="Headshot"
           height="200"
         />
@@ -33,7 +33,7 @@ const Home = () => {
             Charlie the <u>Husky</u>
             <span class="tip-text">
               <img
-                src="../assets/images/charlie.jpeg"
+                src={process.env.PUBLIC_URL + "/assets/images/charlie.jpeg"}
                 alt="Charlie the Husky"
                 width="100px"
               />

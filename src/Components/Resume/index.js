@@ -11,7 +11,7 @@ function Resume() {
         <div className="flex-row">
           <div className="download-info">
             <div className="download-text">
-              <a href='/assets/files/Philipp-Winston-Resume.pdf' className="download-logo" download>
+              <a href={process.env.PUBLIC_URL + '/assets/files/Philipp-Winston-Resume.pdf'} className="download-logo" download>
                 download
               </a>
               <p>
