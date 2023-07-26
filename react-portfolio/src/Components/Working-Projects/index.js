@@ -8,11 +8,11 @@ const Portfolio = () => {
       <div className="row">
         <div className="col-lg-6">
           <div className="article">
-            <p>mySQL Employee tracker</p>
-            <a href="https://github.com/PhilippWinston/mySQL-emp-tracker">
+            <p>ADA Refactoring Project</p>
+            <a href="https://philippwinston.github.io/ADA-Refactoring/">
               <img
-                src="./assets/images/mySQL-emp-tracker.png"
-                alt="mySQL Employee tracker Link"
+                src="./assets/images/ADA-Refactoring.png"
+                alt="ADA Refactoring Project Link"
                 className="img-fluid"
               />
             </a>
@@ -20,11 +20,11 @@ const Portfolio = () => {
         </div>
         <div className="col-lg-6">
           <div className="article">
-            <p>ecommerce API</p>
-            <a href="https://github.com/PhilippWinston/online-ecommerce-api">
+            <p>Study Guide Project</p>
+            <a href="https://philippwinston.github.io/school-prework-guide/">
               <img
-                src="./assets/images/ecommerce.png"
-                alt="ecommerce API link"
+                src="./assets/images/prework-study-guide.png"
+                alt="Study Guide Project link"
                 className="img-fluid"
               />
             </a>
@@ -51,31 +51,6 @@ const Portfolio = () => {
               <img
                 src="./assets/images/home.png"
                 alt="Group Project, HWP_Meal-Planner"
-                className="img-fluid"
-              />
-            </a>
-          </div>
-        </div>
-      </div><div className="row">
-        <div className="col-lg-6">
-          <div className="article">
-            <p>Weather Tracker</p>
-            <a href="https://github.com/PhilippWinston/weather-tracker">
-              <img
-                src="./assets/images/weather-tracker.png"
-                alt="Weather Tracker link"
-                className="img-fluid"
-              />
-            </a>
-          </div>
-        </div>
-        <div className="col-lg-6">
-          <div className="article">
-            <p>SVG tool</p>
-            <a href="https://github.com/PhilippWinston/SVG-logo-maker-tool">
-              <img
-                src="./assets/images/svg-logo-maker.png"
-                alt="SVG tool link"
                 className="img-fluid"
               />
             </a>
