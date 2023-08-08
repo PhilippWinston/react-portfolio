@@ -81,6 +81,19 @@ const Portfolio = () => {
             </a>
           </div>
         </div>
+      </div><div className="row">
+        <div className="col-lg-12">
+          <div className="article">
+            <p>Adrenaline, you Workout Hub!</p>
+            <a href="https://adrenaline-project3-6992473446fd.herokuapp.com/">
+              <img
+                src={process.env.PUBLIC_URL + "/assets/images/workout.png"}
+                alt="img of Adrenaline, you Workout Hub"
+                className="img-fluid"
+              />
+            </a>
+          </div>
+        </div>
       </div>
       <div className="row">
         <div className="col-lg-12">
